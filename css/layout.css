@@ -51,7 +51,7 @@
 	box-sizing: border-box;
 	background-color:black;
 	color:yellow;
-	transition: 1s;
+	transition: 0s;
 
 }
 
@@ -60,7 +60,25 @@
 	background-color: red;
 	color:white;
 }
+.div-one{
 
+    height: 200px;
+	width: 200px;
+	background-color: red;
+	margin:50px 0px 0px 70px ;
+	border-radius:100px 100px 100px 100px;
+}
+
+.div-two{
+    height: 100px;
+   	width:200px;
+   	background-color: red;
+    margin:0px 0px 200px 500px;
+    border-radius: 100px 100px 0px 0px;
+   }
+	
+
+  
 
 
 
