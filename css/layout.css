@@ -67,14 +67,22 @@
 	background-color: red;
 	margin:50px 0px 0px 70px ;
 	border-radius:100px 100px 100px 100px;
+	float:left;
+	box-sizing:border-box;
 }
 
 .div-two{
     height: 100px;
    	width:200px;
    	background-color: red;
-    margin:0px 0px 200px 500px;
+    margin:90px 0px 100px 200px;
     border-radius: 100px 100px 0px 0px;
+    float:left;
+	box-sizing:border-box;
+   }
+   .div-three{
+    margin:90px 0px 200px 800px;
+    border-radius: 0px 0px 100px 100px;
    }
 	
 
